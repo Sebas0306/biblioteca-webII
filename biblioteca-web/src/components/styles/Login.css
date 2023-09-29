@@ -24,12 +24,20 @@
     font-weight: bold;
   }
   
-  input {
-    width: 300px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-  }
+#usuario {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+#contraseña {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
   
   button {
     background-color: #007bff;
